@@ -7,14 +7,17 @@ This project focuses on aligning and trimming text entered into a text box, prov
 ### 1. Text Alignment
 
 #### Automatic Alignment
+
 - Text entered into the text box is automatically aligned at the center of the page.
 
 ### 2. Text Trimming
 
 #### Input Trimming
+
 - Leading and trailing spaces in the entered text are trimmed to ensure a clean input.
 
 #### Text Display
+
 - If the trimmed text exceeds 17 characters, it is split into multiple lines for improved readability.
 
 ## Getting Started
@@ -43,7 +46,3 @@ This project provides a user-friendly interface for entering and displaying text
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Author
-
-- Ameer Ali
